@@ -11,6 +11,11 @@ body {
 
 a {
     color: white;
+    text-decoration: none;
+}
+
+span.link_dec {
+    text-decoration: underline;
 }
 
 @media screen and (min-width: 800px) {
